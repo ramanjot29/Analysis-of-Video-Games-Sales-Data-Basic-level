@@ -1,0 +1,2 @@
+# Analysis of Video Games Sales Data-Basic level
+ The "Analysis of Video Games Sales Data" project is a basic analysis of video game sales data using MySQL. The project includes a series of SQL queries to extract insights such as the top-selling games, publishers, and genres, as well as trends over time. The results of the analysis are presented in a Github repository, which includes a README file outlining the project scope, data sources, and SQL queries used.
